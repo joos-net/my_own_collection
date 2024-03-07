@@ -1,0 +1,4 @@
+---
+# defaults file for create_file
+path: "/tmp/test.txt"
+content: "Something"

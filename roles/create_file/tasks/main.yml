@@ -1,0 +1,7 @@
+---
+# tasks file for create_file
+---
+- name: Call test_module
+  test_module:
+    path: "{{ path }}"
+    content: "{{ content }}"
